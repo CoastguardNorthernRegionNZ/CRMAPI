@@ -1,0 +1,9 @@
+E:\Magnetism\Development\coastguardnz.org.nz\Tfs\CNR\Coastguard.Web.API\bin\Coastguard.Web.API.dll
+E:\Magnetism\Development\coastguardnz.org.nz\Tfs\CNR\Coastguard.Web.API\bin\Coastguard.Web.API.pdb
+E:\Magnetism\Development\coastguardnz.org.nz\Tfs\CNR\Coastguard.Web.API\bin\Coastguard.Data.dll
+E:\Magnetism\Development\coastguardnz.org.nz\Tfs\CNR\Coastguard.Web.API\bin\microsoft.crm.sdk.proxy.dll
+E:\Magnetism\Development\coastguardnz.org.nz\Tfs\CNR\Coastguard.Web.API\bin\microsoft.xrm.sdk.dll
+E:\Magnetism\Development\coastguardnz.org.nz\Tfs\CNR\Coastguard.Web.API\bin\Coastguard.Data.pdb
+E:\Magnetism\Development\coastguardnz.org.nz\Tfs\CNR\Coastguard.Web.API\obj\Debug\Coastguard.Web.API.csprojResolveAssemblyReference.cache
+E:\Magnetism\Development\coastguardnz.org.nz\Tfs\CNR\Coastguard.Web.API\obj\Debug\Coastguard.Web.API.dll
+E:\Magnetism\Development\coastguardnz.org.nz\Tfs\CNR\Coastguard.Web.API\obj\Debug\Coastguard.Web.API.pdb

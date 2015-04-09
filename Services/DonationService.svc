@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Coastguard.Web.API.Services.DonationService" CodeBehind="DonationService.svc.cs" %>

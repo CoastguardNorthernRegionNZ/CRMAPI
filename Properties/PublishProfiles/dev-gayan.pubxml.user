@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\Magnetism\Development\coastguardnz.org.nz\_deploy\api</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Coastguard.Data.dll">
+      <publishTime>10/14/2013 16:11:23</publishTime>
+    </File>
+    <File Include="bin/Coastguard.Web.API.dll">
+      <publishTime>10/14/2013 16:11:25</publishTime>
+    </File>
+    <File Include="bin/microsoft.crm.sdk.proxy.dll">
+      <publishTime>08/19/2013 16:28:59</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.dll">
+      <publishTime>08/19/2013 16:28:59</publishTime>
+    </File>
+    <File Include="bin/microsoft.xrm.sdk.dll">
+      <publishTime>09/10/2013 09:33:21</publishTime>
+    </File>
+    <File Include="Services/DonationService.svc">
+      <publishTime>08/29/2013 11:19:17</publishTime>
+    </File>
+    <File Include="Services/MembershipService.svc">
+      <publishTime>08/29/2013 11:19:17</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/14/2013 16:11:26</publishTime>
+    </File>
+    <File Include="_test/common/js/jquery-1.6.2.min.js">
+      <publishTime>06/18/2013 11:19:50</publishTime>
+    </File>
+    <File Include="_test/common/js/json2.js">
+      <publishTime>06/18/2013 11:19:50</publishTime>
+    </File>
+    <File Include="_test/common/js/script.js">
+      <publishTime>06/21/2013 15:58:54</publishTime>
+    </File>
+    <File Include="_test/donations-test.aspx">
+      <publishTime>06/21/2013 15:58:54</publishTime>
+    </File>
+    <File Include="_test/fail.aspx">
+      <publishTime>06/21/2013 15:58:54</publishTime>
+    </File>
+    <File Include="_test/success.aspx">
+      <publishTime>06/21/2013 15:58:54</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
